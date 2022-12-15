@@ -1,0 +1,4 @@
+This fr testing purpose only. 
+Git commands working fine for my learning.
+I am adding new lines to see how it tracked by Git
+Making changes to see the difference
